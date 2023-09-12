@@ -1,0 +1,2 @@
+# Exploring-the-Possibilities-Reinforcement-Learning-and-AI-Innovation
+Reinforcement learning is a subfield of machine learning that deals with developing algorithms  that enable an agent to learn from experience through trial-and-error interactions with its environment. It  is a paradigm of learning by receiving rewards or punishments based on its actions and adjusting its  behavior to maximize its cumulative reward
